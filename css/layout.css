@@ -71,7 +71,7 @@
 
  /* Clases */
 .borde{
-    border: 0px solid #941C14;}
+    border: 5px solid #e6e6e6;}
 
 .borde:hover{
     border: 5px solid #941C14;
