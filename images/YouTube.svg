@@ -1,14 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 716.73 586.42">
+<svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2451.53 553.13">
   <defs>
     <style>
       .cls-1 {
+        letter-spacing: -.15em;
+      }
+
+      .cls-2 {
+        letter-spacing: -.13em;
+      }
+
+      .cls-3 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-4 {
+        font-family: WorkSans-SemiBold, 'Work Sans';
+        font-size: 473.97px;
+        font-weight: 600;
+      }
+
+      .cls-4, .cls-5 {
         fill: #941c14;
+      }
+
+      .cls-6 {
+        letter-spacing: -.15em;
+      }
+
+      .cls-7 {
+        letter-spacing: -.06em;
+      }
+
+      .cls-8 {
+        letter-spacing: -.06em;
+      }
+
+      .cls-5 {
         stroke-width: 0px;
+      }
+
+      .cls-9 {
+        letter-spacing: -.06em;
       }
     </style>
   </defs>
-  <g id="Capa_1-2" data-name="Capa 1">
-    <path class="cls-1" d="M553.84,0c89.96,0,162.89,72.93,162.89,162.89v260.63c0,89.96-72.93,162.89-162.89,162.89H162.89C72.93,586.42,0,513.49,0,423.52V162.89C0,72.93,72.93,0,162.89,0h390.94ZM260.63,195.47v195.47c.01,17.99,14.61,32.57,32.6,32.55,5.89,0,11.67-1.61,16.72-4.63l162.89-97.74c15.42-9.27,20.4-29.29,11.13-44.71-2.74-4.56-6.57-8.39-11.13-11.13l-162.89-97.74c-15.43-9.25-35.44-4.23-44.69,11.2-3.03,5.05-4.63,10.83-4.63,16.72Z"/>
+  <g id="Capa_2-2" data-name="Capa 2">
+    <g>
+      <text class="cls-4" transform="translate(699.97 393.4)"><tspan class="cls-2" x="0" y="0">Y</tspan><tspan class="cls-8" x="234.9" y="0">o</tspan><tspan class="cls-6" x="491.03" y="0">u</tspan><tspan class="cls-1" x="712.61" y="0">T</tspan><tspan class="cls-7" x="943.29" y="0">u</tspan><tspan class="cls-9" x="1207.34" y="0">b</tspan><tspan class="cls-3" x="1477.13" y="0">e</tspan></text>
+      <g id="Capa_1-2" data-name="Capa 1-2">
+        <path class="cls-5" d="M491.7,15.15c79.87,0,144.61,64.75,144.61,144.61v231.39c0,79.87-64.75,144.61-144.61,144.61H144.61c-79.87,0-144.61-64.74-144.61-144.61v-231.39C0,79.9,64.75,15.15,144.61,15.15h347.08ZM231.39,188.69v173.54c0,15.97,12.97,28.92,28.94,28.9,5.23,0,10.36-1.43,14.84-4.11l144.61-86.77c13.69-8.23,18.11-26,9.88-39.69-2.43-4.05-5.83-7.45-9.88-9.88l-144.61-86.77c-13.7-8.21-31.46-3.76-39.68,9.94-2.69,4.48-4.11,9.61-4.11,14.84h0Z"/>
+      </g>
+    </g>
   </g>
 </svg>
